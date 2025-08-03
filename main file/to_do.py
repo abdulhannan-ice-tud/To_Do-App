@@ -34,7 +34,7 @@ while True:
     elif user_choice[:6] == "remove": 
         try:
             number_to_remove = int(user_choice[7:])  
-            todos = function.get_todos()  
+            todos = function.get_todos()   
             index = number_to_remove - 1 
             todo_to_remove = todos[index] 
             todos.pop(index) 
