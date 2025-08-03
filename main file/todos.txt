@@ -1,6 +1,3 @@
 My name is Md Abdul Hannan
 I live in Darmstadt
 I love Badminton
-My is home country is Bangladesh
-I love to play cricket
-Python is best programming language.
